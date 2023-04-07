@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "1 BHK House",
+    "Type": "Apartment",
+    "Price": 12000
+  },
+  {
+    "Id": 2,
+    "Name": "2 BHK House",
+    "Type": "Duplex",
+    "Price": 15000
+  },
+  {
+    "Id": 3,
+    "Name": "3 BHK House",
+    "Type": "Apartment",
+    "Price": 18000
+  },
+  {
+    "Id": 4,
+    "Name": "4 BHK House",
+    "Type": "Villa",
+    "Price": 45000
+  },
+  {
+    "Id": 5,
+    "Name": "2 BHK House",
+    "Type": "Apartment",
+    "Price": 45000
+  },
+  {
+    "Id": 6,
+    "Name": "2 BHK House",
+    "Type": "Apartment",
+    "Price": 55000
+  }
+]
