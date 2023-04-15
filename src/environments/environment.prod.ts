@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  DANGEROUSLY_DISABLE_HOST_CHECK: true,
+  production: true,
 };
